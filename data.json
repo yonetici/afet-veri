@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-12T21:03:55Z",
+  "son_guncelleme": "2026-06-12T23:24:04Z",
   "features": [
     {
       "type": "Feature",
@@ -190,22 +190,6 @@
         "coordinates": [
           -136,
           11.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "WALTZ Wildfire, Mariposa, California",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20385",
-        "date": "2026-06-05T15:51:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.245512,
-          37.378149
         ]
       }
     }
