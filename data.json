@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-12T07:39:49Z",
+  "son_guncelleme": "2026-06-12T07:50:14Z",
   "features": [
     {
       "type": "Feature",
@@ -68,16 +68,16 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tropical Storm Boris",
-        "type": "severeStorms",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20382",
-        "date": "2026-06-09T12:00:00Z"
+        "title": "PUTAH Wildfire, Yolo, California",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20443",
+        "date": "2026-06-08T14:35:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.6,
-          16.7
+          -122.0754,
+          38.5148
         ]
       }
     },
@@ -94,6 +94,118 @@
         "coordinates": [
           -89.1,
           12.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tropical Storm Boris",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20382",
+        "date": "2026-06-09T12:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6,
+          16.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tower Wildfire, Millard, Utah",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20387",
+        "date": "2026-06-07T15:24:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.164042,
+          39.205895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LXR Lower Third RX 0609 Prescribed Fire, Palm Beach, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20448",
+        "date": "2026-06-07T14:01:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42115,
+          26.509333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raven Creek Wildfire, Weston, Wyoming",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20388",
+        "date": "2026-06-06T20:44:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04695,
+          44.084633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CHESTNUT Wildfire, Chelan, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20389",
+        "date": "2026-06-06T14:14:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.018153,
+          47.793631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WALTZ Wildfire, Mariposa, California",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20385",
+        "date": "2026-06-05T15:51:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.245512,
+          37.378149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tropical Storm Amanda",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20299",
+        "date": "2026-06-08T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136,
+          11.3
         ]
       }
     }
