@@ -1,6 +1,166 @@
 {
-  "son_guncelleme": "2026-06-13T16:20:06Z",
+  "son_guncelleme": "2026-06-13T18:14:44Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.86,
+          -69.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A76C",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.6,
+          -54.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D32",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2,
+          -63.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33B",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.45,
+          -63.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D35",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.65,
+          -62.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33C",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6510",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.73,
+          -64.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A83",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6523",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.03,
+          -64.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22F",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10212",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7,
+          -67.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A85",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12716",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1,
+          -66.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22H",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_14284",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.3,
+          -70.23
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
