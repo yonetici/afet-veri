@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-13T20:20:51Z",
+  "son_guncelleme": "2026-06-13T22:11:33Z",
   "features": [
     {
       "type": "Feature",
@@ -318,22 +318,6 @@
         "coordinates": [
           -105.04695,
           44.084633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CHESTNUT Wildfire, Chelan, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20389",
-        "date": "2026-06-06T14:14:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.018153,
-          47.793631
         ]
       }
     }
