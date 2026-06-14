@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-14T00:14:46Z",
+  "son_guncelleme": "2026-06-14T05:56:19Z",
   "features": [
     {
       "type": "Feature",
@@ -302,22 +302,6 @@
         "coordinates": [
           -80.42115,
           26.509333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Raven Creek Wildfire, Weston, Wyoming",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20388",
-        "date": "2026-06-06T20:44:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.04695,
-          44.084633
         ]
       }
     }
