@@ -1,6 +1,150 @@
 {
-  "son_guncelleme": "2026-06-15T21:15:08Z",
+  "son_guncelleme": "2026-06-15T23:51:24Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Gate (26) Wildfire, Hendry, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20520",
+        "date": "2026-06-14T19:39:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1661111,
+          26.3666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIDNIGHT FIRE (53) Wildfire, Polk, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20523",
+        "date": "2026-06-14T17:18:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9430556,
+          27.7152778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4170 Tule Rd Wildfire, Yakima, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20516",
+        "date": "2026-06-14T16:30:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3144,
+          46.27602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rookery Wildfire, Volusia, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20513",
+        "date": "2026-06-14T10:57:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.426633,
+          29.07815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "JUNIPER DUNES Wildfire, Franklin, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20517",
+        "date": "2026-06-14T10:25:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.896108,
+          46.346137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WYLY Wildfire, Kern, California",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20519",
+        "date": "2026-06-13T17:54:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6341667,
+          35.2638889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SNAKE RIVER Wildfire, Whitman, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20518",
+        "date": "2026-06-13T10:37:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19118,
+          46.4322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kilolitna Wildfire, Yukon-Koyukuk, Alaska",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20522",
+        "date": "2026-06-12T12:12:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.805649,
+          66.047957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unit 16/20 Rx Prescribed Fire, Bibb, Alabama",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20524",
+        "date": "2026-06-12T11:08:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.047567,
+          33.062922
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -196,6 +340,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bear Wildfire, Catron, New Mexico",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20521",
+        "date": "2026-06-09T17:45:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.292667,
+          34.0465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "APQ Area 11 Scrub RX 0608 Prescribed Fire, Highlands, Florida",
         "type": "wildfires",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20447",
@@ -238,22 +398,6 @@
         "coordinates": [
           -89.1,
           12.8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "PUTAH Wildfire, Yolo, California",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20443",
-        "date": "2026-06-08T14:35:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0754,
-          38.5148
         ]
       }
     }
