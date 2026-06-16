@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-16T17:08:09Z",
+  "son_guncelleme": "2026-06-16T21:11:12Z",
   "features": [
     {
       "type": "Feature",
@@ -350,22 +350,6 @@
         "coordinates": [
           -108.292667,
           34.0465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "APQ Area 11 Scrub RX 0608 Prescribed Fire, Highlands, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20447",
-        "date": "2026-06-09T11:20:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2536,
-          27.59925
         ]
       }
     }
