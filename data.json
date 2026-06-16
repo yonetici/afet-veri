@@ -1,4 +1,389 @@
 {
-  "son_guncelleme": "2026-06-16T05:08:47Z",
-  "features": []
+  "son_guncelleme": "2026-06-16T11:24:25Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Gate (26) Wildfire, Hendry, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20520",
+        "date": "2026-06-14T19:39:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1661111,
+          26.3666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIDNIGHT FIRE (53) Wildfire, Polk, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20523",
+        "date": "2026-06-14T17:18:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9430556,
+          27.7152778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4170 Tule Rd Wildfire, Yakima, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20516",
+        "date": "2026-06-14T16:30:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3144,
+          46.27602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rookery Wildfire, Volusia, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20513",
+        "date": "2026-06-14T10:57:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.426633,
+          29.07815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "JUNIPER DUNES Wildfire, Franklin, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20517",
+        "date": "2026-06-14T10:25:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.896108,
+          46.346137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WYLY Wildfire, Kern, California",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20519",
+        "date": "2026-06-13T17:54:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6341667,
+          35.2638889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SNAKE RIVER Wildfire, Whitman, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20518",
+        "date": "2026-06-13T10:37:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19118,
+          46.4322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kilolitna Wildfire, Yukon-Koyukuk, Alaska",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20522",
+        "date": "2026-06-12T12:12:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.805649,
+          66.047957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unit 16/20 Rx Prescribed Fire, Bibb, Alabama",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20524",
+        "date": "2026-06-12T11:08:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.047567,
+          33.062922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.86,
+          -69.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A76C",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.6,
+          -54.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D32",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2,
+          -63.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33B",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.45,
+          -63.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D35",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.65,
+          -62.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33C",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6510",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.73,
+          -64.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A83",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6523",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.03,
+          -64.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22F",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10212",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7,
+          -67.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A85",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12716",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1,
+          -66.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22H",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_14284",
+        "date": "2026-06-12T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.3,
+          -70.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Schloss RX Prescribed Fire, Shenandoah, Virginia",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20446",
+        "date": "2026-06-10T14:51:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636,
+          38.925944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Fork Wildfire, Sioux, Nebraska",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20442",
+        "date": "2026-06-09T20:08:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.638333,
+          42.659167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bear Wildfire, Catron, New Mexico",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20521",
+        "date": "2026-06-09T17:45:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.292667,
+          34.0465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "APQ Area 11 Scrub RX 0608 Prescribed Fire, Highlands, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20447",
+        "date": "2026-06-09T11:20:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2536,
+          27.59925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tropical Storm Cristina",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20412",
+        "date": "2026-06-11T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1,
+          12.8
+        ]
+      }
+    }
+  ]
 }
