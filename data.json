@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-16T11:24:25Z",
+  "son_guncelleme": "2026-06-16T17:08:09Z",
   "features": [
     {
       "type": "Feature",
@@ -366,22 +366,6 @@
         "coordinates": [
           -81.2536,
           27.59925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tropical Storm Cristina",
-        "type": "severeStorms",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20412",
-        "date": "2026-06-11T00:00:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.1,
-          12.8
         ]
       }
     }
