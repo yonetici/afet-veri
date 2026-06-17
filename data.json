@@ -1,6 +1,182 @@
 {
-  "son_guncelleme": "2026-06-17T19:29:03Z",
+  "son_guncelleme": "2026-06-17T22:06:47Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Median Wildfire, Gooding, Idaho",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20558",
+        "date": "2026-06-17T13:57:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.767567,
+          42.805867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TRAIL 13 (09) Wildfire, Citrus, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20565",
+        "date": "2026-06-16T23:57:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4186111,
+          28.7994444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kartar Wildfire, Okanogan, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20560",
+        "date": "2026-06-16T23:43:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.390027,
+          48.250361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Omak Lake Road Wildfire, Okanogan, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20562",
+        "date": "2026-06-16T22:53:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.410833,
+          48.274722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Emigrant Wildfire, Umatilla, Oregon",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20559",
+        "date": "2026-06-16T16:43:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.615417,
+          45.616957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sawmill Wildfire, Iron, Utah",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20561",
+        "date": "2026-06-16T16:11:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70575,
+          38.09192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "QUARRY 2 (13) Wildfire, Miami-Dade, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20567",
+        "date": "2026-06-15T22:51:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4233333,
+          25.8116667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dellenbaugh Wildfire, Mohave, Arizona",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20569",
+        "date": "2026-06-15T18:32:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.535333,
+          36.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "APQ Area 5A RX 0615 Prescribed Fire, Polk, Florida",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20570",
+        "date": "2026-06-15T18:30:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.330714,
+          27.720842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SHORE Wildfire, Riverside, California",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20564",
+        "date": "2026-06-15T18:24:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.103582,
+          33.976656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rock Canyon Wildfire, Coconino, Arizona",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20566",
+        "date": "2026-06-15T17:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2032,
+          36.9157
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -62,6 +238,22 @@
         "coordinates": [
           -81.426633,
           29.07815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TWIN SISTERS Wildfire, Walla Walla, Washington",
+        "type": "wildfires",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20571",
+        "date": "2026-06-14T10:26:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.90997,
+          46.05679
         ]
       }
     },
@@ -302,22 +494,6 @@
         "coordinates": [
           164.3,
           -70.23
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Little Schloss RX Prescribed Fire, Shenandoah, Virginia",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20446",
-        "date": "2026-06-10T14:51:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.636,
-          38.925944
         ]
       }
     }
