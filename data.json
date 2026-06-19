@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-19T17:22:28Z",
+  "son_guncelleme": "2026-06-19T19:56:31Z",
   "features": [
     {
       "type": "Feature",
@@ -302,38 +302,6 @@
         "coordinates": [
           -117.19118,
           46.4322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kilolitna Wildfire, Yukon-Koyukuk, Alaska",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20522",
-        "date": "2026-06-12T12:12:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.805649,
-          66.047957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Unit 16/20 Rx Prescribed Fire, Bibb, Alabama",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20524",
-        "date": "2026-06-12T11:08:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.047567,
-          33.062922
         ]
       }
     }
