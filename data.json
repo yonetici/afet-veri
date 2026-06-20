@@ -1,6 +1,54 @@
 {
-  "son_guncelleme": "2026-06-20T16:24:32Z",
+  "son_guncelleme": "2026-06-20T18:17:46Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.59,
+          -69.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A81",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.58,
+          -63.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6423",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.79,
+          -64.24
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -286,22 +334,6 @@
         "coordinates": [
           -118.6341667,
           35.2638889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SNAKE RIVER Wildfire, Whitman, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20518",
-        "date": "2026-06-13T10:37:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.19118,
-          46.4322
         ]
       }
     }
