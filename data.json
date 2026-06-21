@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-21T21:21:13Z",
+  "son_guncelleme": "2026-06-21T23:21:37Z",
   "features": [
     {
       "type": "Feature",
@@ -270,22 +270,6 @@
         "coordinates": [
           -81.9430556,
           27.7152778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4170 Tule Rd Wildfire, Yakima, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20516",
-        "date": "2026-06-14T16:30:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.3144,
-          46.27602
         ]
       }
     }
