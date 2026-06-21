@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-21T17:47:23Z",
+  "son_guncelleme": "2026-06-21T19:52:36Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-21T06:00:00Z"
+        "date": "2026-06-21T12:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.9,
-          16.1
+          130.6,
+          16.5
         ]
       }
     },
@@ -286,54 +286,6 @@
         "coordinates": [
           -120.3144,
           46.27602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rookery Wildfire, Volusia, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20513",
-        "date": "2026-06-14T10:57:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.426633,
-          29.07815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "TWIN SISTERS Wildfire, Walla Walla, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20571",
-        "date": "2026-06-14T10:26:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.90997,
-          46.05679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "JUNIPER DUNES Wildfire, Franklin, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20517",
-        "date": "2026-06-14T10:25:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.896108,
-          46.346137
         ]
       }
     }
