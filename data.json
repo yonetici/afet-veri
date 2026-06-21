@@ -1,10 +1,10 @@
 {
-  "son_guncelleme": "2026-06-21T13:11:38Z",
+  "son_guncelleme": "2026-06-21T15:58:54Z",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "title": "Tropical Storm Mekkhala",
+        "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
         "date": "2026-06-21T06:00:00Z"
