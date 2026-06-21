@@ -1,6 +1,22 @@
 {
-  "son_guncelleme": "2026-06-21T00:14:44Z",
+  "son_guncelleme": "2026-06-21T06:09:01Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tropical Storm Mekkhala",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
+        "date": "2026-06-21T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133,
+          15.4
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -318,22 +334,6 @@
         "coordinates": [
           -118.896108,
           46.346137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "WYLY Wildfire, Kern, California",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20519",
-        "date": "2026-06-13T17:54:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.6341667,
-          35.2638889
         ]
       }
     }
