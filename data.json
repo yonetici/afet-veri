@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-21T23:21:37Z",
+  "son_guncelleme": "2026-06-22T05:06:37Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-21T12:00:00Z"
+        "date": "2026-06-21T18:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.6,
-          16.5
+          128.9,
+          17.3
         ]
       }
     },
@@ -238,38 +238,6 @@
         "coordinates": [
           -112.2032,
           36.9157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Green Gate (26) Wildfire, Hendry, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20520",
-        "date": "2026-06-14T19:39:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1661111,
-          26.3666667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MIDNIGHT FIRE (53) Wildfire, Polk, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20523",
-        "date": "2026-06-14T17:18:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9430556,
-          27.7152778
         ]
       }
     }
