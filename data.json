@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-22T20:56:22Z",
+  "son_guncelleme": "2026-06-22T22:51:45Z",
   "features": [
     {
       "type": "Feature",
@@ -222,22 +222,6 @@
         "coordinates": [
           -117.103582,
           33.976656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rock Canyon Wildfire, Coconino, Arizona",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20566",
-        "date": "2026-06-15T17:00:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.2032,
-          36.9157
         ]
       }
     }
