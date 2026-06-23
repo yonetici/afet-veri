@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-23T05:08:17Z",
+  "son_guncelleme": "2026-06-23T09:55:07Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-22T12:00:00Z"
+        "date": "2026-06-23T00:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.1,
-          18.1
+          125.2,
+          18.9
         ]
       }
     },
@@ -158,22 +158,6 @@
         "coordinates": [
           -113.70575,
           38.09192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "QUARRY 2 (13) Wildfire, Miami-Dade, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20567",
-        "date": "2026-06-15T22:51:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4233333,
-          25.8116667
         ]
       }
     }
