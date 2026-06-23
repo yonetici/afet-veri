@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-23T00:14:21Z",
+  "son_guncelleme": "2026-06-23T05:08:17Z",
   "features": [
     {
       "type": "Feature",
@@ -174,54 +174,6 @@
         "coordinates": [
           -80.4233333,
           25.8116667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dellenbaugh Wildfire, Mohave, Arizona",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20569",
-        "date": "2026-06-15T18:32:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.535333,
-          36.075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "APQ Area 5A RX 0615 Prescribed Fire, Polk, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20570",
-        "date": "2026-06-15T18:30:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.330714,
-          27.720842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SHORE Wildfire, Riverside, California",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20564",
-        "date": "2026-06-15T18:24:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.103582,
-          33.976656
         ]
       }
     }
