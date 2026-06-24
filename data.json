@@ -1,4 +1,85 @@
 {
-  "son_guncelleme": "2026-06-24T21:37:30Z",
-  "features": []
+  "son_guncelleme": "2026-06-24T23:12:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tropical Storm Higos",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20671",
+        "date": "2026-06-24T12:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7,
+          16.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Typhoon Mekkhala",
+        "type": "severeStorms",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
+        "date": "2026-06-24T12:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8,
+          22.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg B22A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.59,
+          -69.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg A81",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.58,
+          -63.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33A",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6423",
+        "date": "2026-06-18T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.79,
+          -64.24
+        ]
+      }
+    }
+  ]
 }
