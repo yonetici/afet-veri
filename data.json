@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-24T04:08:01Z",
+  "son_guncelleme": "2026-06-24T08:26:35Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Tropical Storm Higos",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20671",
-        "date": "2026-06-23T18:00:00Z"
+        "date": "2026-06-24T00:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.8,
-          14.9
+          141.9,
+          15.1
         ]
       }
     },
@@ -23,13 +23,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-23T18:00:00Z"
+        "date": "2026-06-24T00:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.8,
-          20.2
+          124.6,
+          21
         ]
       }
     },
@@ -94,54 +94,6 @@
         "coordinates": [
           -114.767567,
           42.805867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "TRAIL 13 (09) Wildfire, Citrus, Florida",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20565",
-        "date": "2026-06-16T23:57:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4186111,
-          28.7994444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kartar Wildfire, Okanogan, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20560",
-        "date": "2026-06-16T23:43:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.390027,
-          48.250361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Omak Lake Road Wildfire, Okanogan, Washington",
-        "type": "wildfires",
-        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20562",
-        "date": "2026-06-16T22:53:00Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.410833,
-          48.274722
         ]
       }
     }
