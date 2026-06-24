@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-23T23:12:47Z",
+  "son_guncelleme": "2026-06-24T04:08:01Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Tropical Storm Higos",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20671",
-        "date": "2026-06-23T00:00:00Z"
+        "date": "2026-06-23T18:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7,
-          14.7
+          142.8,
+          14.9
         ]
       }
     },
@@ -23,13 +23,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-23T12:00:00Z"
+        "date": "2026-06-23T18:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.7,
-          19.6
+          124.8,
+          20.2
         ]
       }
     },
