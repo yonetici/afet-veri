@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-27T10:15:35Z",
+  "son_guncelleme": "2026-06-27T12:11:36Z",
   "features": [
     {
       "type": "Feature",
@@ -23,13 +23,13 @@
         "title": "Typhoon Mekkhala",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20606",
-        "date": "2026-06-27T00:00:00Z"
+        "date": "2026-06-27T06:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.2,
-          31.6
+          135.8,
+          32.7
         ]
       }
     }
