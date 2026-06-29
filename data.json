@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-06-29T15:58:07Z",
+  "son_guncelleme": "2026-06-29T18:18:19Z",
   "features": [
     {
       "type": "Feature",
@@ -110,6 +110,22 @@
         "coordinates": [
           178.27,
           -66.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iceberg D33D",
+        "type": "seaLakeIce",
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20822",
+        "date": "2026-06-25T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.51,
+          -64.35
         ]
       }
     },
