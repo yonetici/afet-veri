@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-07-02T16:54:41Z",
+  "son_guncelleme": "2026-07-02T18:39:44Z",
   "features": [
     {
       "type": "Feature",
@@ -7,13 +7,13 @@
         "title": "Tropical Storm Douglas",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20878",
-        "date": "2026-07-01T18:00:00Z"
+        "date": "2026-07-02T12:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -126.9,
-          15.5
+          -127.1,
+          17.1
         ]
       }
     },
@@ -23,13 +23,13 @@
         "title": "Tropical Storm Bavi",
         "type": "severeStorms",
         "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_20877",
-        "date": "2026-07-01T12:00:00Z"
+        "date": "2026-07-02T12:00:00Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          162.4,
-          9.7
+          158,
+          12.3
         ]
       }
     },
